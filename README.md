@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rod-laycock
 - 👀 I’m interested in Raspberry Pi electronics, software monitoring and control
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python and C++
 - 📫 You can reach me via email.
 
 <!---
