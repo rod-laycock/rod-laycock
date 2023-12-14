@@ -26,7 +26,7 @@ The following are some of the skills I possess, in varying degrees.
 
 The following skills are one's I'm working on presently,
 
-[![My Skills](https://skillicons.dev/icons?i=arduino,cpp,unity,unreal)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=arduino,cpp,unity,unreal,godot)](https://skillicons.dev)
 
 ## Future
 The following are next on my hit-list
